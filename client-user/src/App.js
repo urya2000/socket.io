@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Chat from "./Chat";
 
 function App() {
-  const [currentUser, setCurrentUser] = useState("user2");
+  const [currentUser, setCurrentUser] = useState("user2") ;
 
   return (
     <div>
